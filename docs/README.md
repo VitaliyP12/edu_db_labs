@@ -7,7 +7,7 @@ footer: "ECL 2.0 Licensed | Copyright © [2024] [Віталій ПЕРЧУК]"
 ---
 
 
-**Виконав(-ла):** 
+**Виконав:** 
 
 *студент 2-го курсу, групи ІМ-24*<span padding-right:5em></span> **Перчук Віталій v.perchuk04@gmail.com**
 
